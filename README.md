@@ -10,3 +10,6 @@ you have the option of:
 3. Deleting a contact
 4. printing the contact list
 5. changing files to distinquish professional and personal contacts
+
+## How to use
+Simple as Downloading and running main.py
